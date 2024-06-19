@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amani from SAYNA.It's digital school to learn all digitals jobs with a good family spirit and game way.</h1>
 <h3 align="center">I'm interested in code but I'm not a developer at the moment, sorry!</h3>
+I'm looking to collaborate on many projects to see all the methodoly development in the world, good luck for me!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emaprogm&label=Profile%20views&color=0e75b6&style=flat" alt="emaprogm" /> </p>
 
